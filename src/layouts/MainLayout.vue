@@ -51,6 +51,12 @@ import EssentialLink, { type EssentialLinkProps } from 'components/EssentialLink
 
 const linksList: EssentialLinkProps[] = [
   {
+    title: 'Demo - Reactivity',
+    caption: 'Reactivity',
+    icon: 'import_export',
+    link: '/reactivity'
+  },
+  {
     title: 'Docs',
     caption: 'quasar.dev',
     icon: 'school',
